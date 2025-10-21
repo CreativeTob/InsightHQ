@@ -8,3 +8,10 @@ High employee turnover is costly: recruitment, training, and lost institutional 
 Use EDA to uncover which factors (e.g., job satisfaction, overtime, salary, work environment) are strongly associated with attrition. Then build a classification model to predict whether an employee will leave (attrition = Yes / No). Interpret your model to identify key drivers of attrition and suggest retention strategies.
 Dataset:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
+
+
+We dropped
+- Over18
+- EmployeeId
+- StandardHours
+
