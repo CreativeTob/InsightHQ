@@ -55,3 +55,12 @@ Uncover the factors that lead to employee attrition and explore important questi
 2. 'Good'
 3. 'Better'
 4. 'Best'
+
+
+
+
+
+#### Today - 28/10/25
+
+- Finish EDA Analysis
+- Add and Optimize Features
